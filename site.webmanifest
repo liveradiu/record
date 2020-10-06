@@ -3,7 +3,7 @@
     "short_name": "",
     "icons": [
         {
-            "src": "https://cdn.jsdelivr.net/gh/liveradiu/record/android-chrome-144x144.png",
+            "src": "https://cdn.jsdelivr.net/gh/liveradiu/record/android-chrome-140x140.png",
             "sizes": "144x144",
             "type": "image/png"
         }
